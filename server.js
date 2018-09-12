@@ -2,13 +2,13 @@
 // Server
 //
 // This file contains all of the code necessary for managing a
-// WebCraft server on the Node.js platform.
+// Minecraft server on the Node.js platform.
 // ==========================================
 
 // Parameters
-var WORLD_SX = 128;
-var WORLD_SY = 128;
-var WORLD_SZ = 32;
+var WORLD_SX = 256;
+var WORLD_SY = 256;
+var WORLD_SZ = 256;
 var WORLD_GROUNDHEIGHT = 16;
 var SECONDS_BETWEEN_SAVES = 60;
 var ADMIN_IP = "";
